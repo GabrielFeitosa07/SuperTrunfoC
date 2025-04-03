@@ -1,3 +1,9 @@
+# Desafio Super Trunfo - Cadastro das cartas
+
+As cartas serão divididas por estados, cada um com quatro cidades. Imagine um país dividido em oito estados (A a H), e cada estado com quatro cidades (1 a 4). A combinação forma o código da carta (ex: A01, B02).
+
+⚙️ **Funcionalidades do Sistema:**
+
 *   O sistema permitirá ao usuário cadastrar os dados de **duas** cartas manualmente via terminal.
 *   Após o cadastro, o sistema exibirá os dados de cada cidade de forma organizada.
 
