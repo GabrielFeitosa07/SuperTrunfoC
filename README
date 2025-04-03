@@ -1,7 +1,7 @@
-O sistema permitirá ao usuário cadastrar os dados de **duas** cartas manualmente via terminal.
+O Sistema permitirá o usuário cadastrar os dados de **duas** cartas manualmente via terminal.
 Após o cadastro, o sistema exibirá os dados de cada cidade de forma organizada.
 
-📥 **Entrada** e 📤 **Saída de Dados:**
+**Entrada** e **Saída de dados:**
 
-O usuário insere os dados de cada carta interativamente via `scanf` e `fgets`.
-O programa exibe os dados cadastrados usando `printf`, com cada atributo em uma nova linha.
+O Usuário insere os dados de cada carta interativamente via `scanf` e `fgets`.
+O Programa exibe os dados cadastrados usando `printf`, com cada atributo em uma nova linha.
